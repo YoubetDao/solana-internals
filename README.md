@@ -1,4 +1,4 @@
-# solana-internal
+# solana-internals
 
 Welcome to **solana-internal**! This repository is a collection of internal notes, guides, and resources related to the Solana blockchain. It is designed to help developers, researchers, and contributors better understand the inner workings of Solana and its ecosystem.
 
